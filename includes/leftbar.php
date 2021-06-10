@@ -14,7 +14,7 @@
                 </li>
 
                 <li class="has_sub">
-                    <a target="_blank" href="Coinnest_Africa_Digitization_.pdf" class="waves-effect"><i class="zmdi zmdi-home"></i><span> White Paper </span> </a>
+                    <a target="_blank" href="#.pdf" class="waves-effect"><i class="zmdi zmdi-home"></i><span> White Paper </span> </a>
                 </li>
 
                 <li class="has_sub">

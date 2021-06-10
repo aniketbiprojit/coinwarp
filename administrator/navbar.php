@@ -1,9 +1,9 @@
 <!-- Navbar-->
       <header class="main-header hidden-print" style="box-shadow: 0px 0px 10px rgba(0,0,0, .2)">
         <div style="padding: 10px;background-color: #fff" class="mobss"></div>
-        <div class="logo" style="background: linear-gradient(to bottom right, #fff, #eee);"><center><a style="color:#333 !important;font-family: ARIAL;font-size: 20px;" href="dashboard.php"><img src="../fac.png" style="width: 30px;margin-top:-3px;opacity: .8;"> COINNEST</a></center></div>
+        <div class="logo" style="background: linear-gradient(to bottom right, #fff, #eee);"><center><a style="color:#333 !important;font-family: ARIAL;font-size: 20px;" href="dashboard.php"><img src="../fac.png" style="width: 30px;margin-top:-3px;opacity: .8;"> COINWARP</a></center></div>
         <div style="padding: 10px;background-color: #fff;border-bottom: solid 1px #eee" class="mobss"></div>
-        <nav class="navbar navbar-static-top nava" style="background-color: #060661;">
+        <nav class="navbar navbar-static-top nava" style="background-color: #002c42;">
           <!-- Sidebar toggle button--><a class="sidebar-toggle" href="#" data-toggle="offcanvas" style="color: #ccc"></a>
           <!-- Navbar Right Menu-->
           <div class="navbar-custom-menu">
@@ -58,7 +58,7 @@
         </nav>
       </header>
       <!-- Side-Nav-->
-      <aside class="main-sidebar hidden-print" style="background-color: #ff6600;">
+      <aside class="main-sidebar hidden-print" style="background-color: #0073ad;">
         <section class="sidebar">
 
           <div class="user-panel">

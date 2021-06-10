@@ -40,7 +40,7 @@
           </div>
           <div style="padding:10px;"></div>
           <div class="form-group btn-container">
-            <button class="btn btn-primary btn-block" style="background-color: #ff6600"><i class="fa fa-sign-in fa-lg fa-fw"></i>SIGN IN</button>
+            <button class="btn btn-primary btn-block" style="background-color: #00ccff"><i class="fa fa-sign-in fa-lg fa-fw"></i>SIGN IN</button>
           </div>
         </form>
         <form class="forget-form" action="index.html">
@@ -50,7 +50,7 @@
             <input class="form-control" type="text" placeholder="Email">
           </div>
           <div class="form-group btn-container">
-            <button class="btn btn-primary btn-block" style="background-color: #ff6600"><i class="fa fa-unlock fa-lg fa-fw"></i>RESET</button>
+            <button class="btn btn-primary btn-block" style="background-color: #00ccff"><i class="fa fa-unlock fa-lg fa-fw"></i>RESET</button>
           </div>
           <div class="form-group mt-20">
             <p class="semibold-text mb-0"><a data-toggle="flip" style="color: #999"><i class="fa fa-angle-left fa-fw"></i> Back to Login</a></p>

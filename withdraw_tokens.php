@@ -64,7 +64,7 @@
                            </div>
                           
 
-                           <button class="btn btn-danger btn-lg" style="width: 100%">WITHDRAW TOKENS</button>
+                           <button class="btn btn-primary btn-lg" style="width: 100%">WITHDRAW TOKENS</button>
                          </form>
                          <div style="padding: 10px;"></div>
                          <!-- <div style="color: #444;">*<?php echo token_names(); ?> Fee : Fee: 0.5% of the total amount or 0.5 <?php echo token_names(); ?> </div> -->
@@ -79,7 +79,7 @@
                 <div class="col-xl-6 col-xs-12">
                     <div class="card-box items">
                         <!-- <h4 class="header-title m-t-0 m-b-20">Amount of <?php echo token_names();  ?> to be sent </h4> -->
-                         <h3  style="font-family: 'Didact Gothic', sans-serif;font-weight:bold;color:red;font-size: 20px;">Caution! </h3>                         
+                         <h3  style="font-family: 'Didact Gothic', sans-serif;font-weight:bold;color:#004c65;font-size: 20px;">Caution! </h3>                         
                          <hr/>
                          <ul style="font-family: 'Didact Gothic', sans-serif;color: #444;font-size: 16px;">
                             <li style="padding: 4px;"> Ensure that your <?php echo token_names(); ?> address ID (From) and the Recipient’s <?php echo token_names(); ?> address (To) are correct.</li>

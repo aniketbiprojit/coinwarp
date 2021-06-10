@@ -64,7 +64,7 @@
                              
                             <div style="padding:5px;"></div>
 
-                             <button class="btn btn-danger btn-lg" style="width: 100%" >SEND <?php echo token_names();  ?></button>
+                             <button class="btn btn-primary btn-lg" style="width: 100%" >SEND <?php echo token_names();  ?></button>
                            </form>
                            <!-- <div style="color: #999;"><?php echo token_names();  ?> Fee : Fee: 0.5% of the total amount or 0.5 <?php echo token_names();  ?> </div> -->
                         

@@ -1,8 +1,8 @@
 <?php   
    $host = '127.0.0.1';
-        $db   = 'coinnest';
+        $db   = 'coinwarp';
         $user = 'root';
-        $pass = 'Aimedis@213';
+        $pass = '';
         $charset = 'utf8';
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
     $opt = [

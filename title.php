@@ -1,1 +1,1 @@
-Coinnest :  Tokensale Dashboard
+Earth :  Tokensale Dashboard

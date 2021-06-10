@@ -58,7 +58,7 @@
                               <div style="padding: 10px;text-align: left;">
                                   <h3 style="font-family: 'Didact Gothic', sans-serif;color: #444;font-size: 24px;">Buy via wire transfer</h3>
                                   <hr style="opacity: .1" />
-                                  <!-- <p style="font-family: 'Didact Gothic', sans-serif;color: red;font-size: 16px;"><b>Min. 10,000 USD and Max 50,000,000 USD</b></p> -->
+                                  <!-- <p style="font-family: 'Didact Gothic', sans-serif;color:#006599;font-size: 16px;"><b>Min. 10,000 USD and Max 50,000,000 USD</b></p> -->
                                   <p style="font-family: 'Didact Gothic', sans-serif;color: #444;font-size: 16px;font-weight: bold;">Processing Time : 1 to 5 Working Days</p>
                                   <hr style="opacity: .1" />
                                   <table class="table table-hover table-striped">
@@ -96,7 +96,7 @@
                                       </tbody>
                                   </table>
 
-                                  <div style="padding: 10px;background-color: red;color: #fff;">
+                                  <div style="padding: 10px;background-color:#006599;color: #fff;">
                                     <b>Note: Permitted countries of banks to receive USD funds are below. Please contact our support team if your bank doesn’t locate in these countries:</b>
                                     Americas: United States, Canada. Asia: China, Hong Kong, India, Japan, Philippines, Singapore, Taiwan, United Arab Emirates. Oceania: Australia, New Zealand. Europe: 
 Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Gibraltar, Guernsey, Greece, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom. 
@@ -104,7 +104,7 @@ Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, 
                                   </div>
 
                                   <hr style="opacity: .1" />
-                                  <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal22">Deposit Amount</button>
+                                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal22">Deposit Amount</button>
                               </div>
                           </div>
                           <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab" aria-expanded="false">
@@ -116,12 +116,12 @@ Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, 
                                   <b>Bitcoin Address</b> : 1EWTceugub9LC2vjXsFYbCa1PpUnYKcYJ1K
                                   <br/>
                                   <br/>
-                                  <div style="padding: 14px;background-color: red;color:#fff;width: 80%">
+                                  <div style="padding: 14px;background-color:#006599;color:#fff;width: 80%">
                                      Please insert your purchase amount and other details by clicking on Transfer BTC. Then transfer your BTC to above address. Once we get your BTC in our wallet, we will recharge your wallet with an equivalent amount of <?php echo token_names(); ?>.
                                   </div>
 
                                   <hr style="opacity: .1" />
-                                  <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal224">Transfer BTC</button>
+                                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal224">Transfer BTC</button>
                                 </center>
                               </div>
                           </div>
@@ -135,12 +135,12 @@ Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, 
                                       <b>Ethereum Address</b> : 0x9489c2c2524609069d1f394a1730661ea769d4027
                                       <br/>
                                       <br/>
-                                      <div style="padding: 14px;background-color: red;width: 80%;color: #fff;">
+                                      <div style="padding: 14px;background-color:#006599;width: 80%;color: #fff;">
                                           Please insert your purchase amount and other details by clicking on Transfer BTC. Then transfer your Ether to above address. Once we get your Ether in our wallet, we will recharge your wallet with an equivalent amount of <?php echo token_names(); ?>.
                                       </div>
 
                                       <hr style="opacity: .1" />
-                                      <button type="button" class="btn btn-danger"  data-toggle="modal" data-target="#myModal223">Transfer ETH</button>
+                                      <button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#myModal223">Transfer ETH</button>
 
                                   </center>
                               </div>
@@ -155,12 +155,12 @@ Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, 
                                       <b>USDT Address (Transfer network ERC20/Ethereum):</b> : 0xacc7013d075b50e52041244e9fc8615cd27eb5006
                                       <br/>
                                       <br/>
-                                      <div style="padding: 14px;background-color: red;width: 80%;color: #fff;">
+                                      <div style="padding: 14px;background-color:#006599;width: 80%;color: #fff;">
                                           Please insert your purchase amount and other details by clicking on Transfer USDT. Then transfer your USDT to above address. Please select Transfer or Transport network as Ethereum (ERC20) when you withdraw your USDT to this address. Once we get your USDT in our wallet, we will recharge your wallet with an equivalent amount of  <?php echo token_names(); ?>.
                                       </div>
 
                                       <hr style="opacity: .1" />
-                                      <button type="button" class="btn btn-danger"  data-toggle="modal" data-target="#myModal2232">Transfer USDT</button>
+                                      <button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#myModal2232">Transfer USDT</button>
 
                                   </center>
                               </div>
@@ -219,7 +219,7 @@ Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, 
                                    continue;
                                   }
                                   
-                                  $statys = '<label class="label label-danger">Pending</label>';
+                                  $statys = '<label class="label label-primary">Pending</label>';
                                   if($value['status']!="pending"){
                                     $statys = '<label class="label label-success">Approved</label>';
                                   }
@@ -315,7 +315,7 @@ Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, 
 
 
                   <div class="form-group">
-                   <button type="submit" class="btn btn-danger" >Request Buy Token </button>
+                   <button type="submit" class="btn btn-primary" >Request Buy Token </button>
                  </div>
                </div>
              </form>
@@ -371,7 +371,7 @@ Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, 
 
 
                   <div class="form-group">
-                   <button type="submit" class="btn btn-danger" >Request Buy Token </button>
+                   <button type="submit" class="btn btn-primary" >Request Buy Token </button>
                  </div>
                </div>
              </form>
@@ -427,7 +427,7 @@ Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, 
 
 
                   <div class="form-group">
-                   <button type="submit" class="btn btn-danger" >Request Buy Token </button>
+                   <button type="submit" class="btn btn-primary" >Request Buy Token </button>
                  </div>
                </div>
              </form>
@@ -484,7 +484,7 @@ Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, 
 
 
                   <div class="form-group">
-                   <button type="submit" class="btn btn-danger" >Request Buy Token </button>
+                   <button type="submit" class="btn btn-primary" >Request Buy Token </button>
                  </div>
                </div>
              </form>

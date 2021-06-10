@@ -145,7 +145,7 @@
 
                 <div class="row">
                   <div class="col-sm-12">
-                   <button class="inputss hvr-bounce-to-right" name="login" style="width: 100%;background-color: #ff6600">LogIn</button>
+                   <button class="inputss hvr-bounce-to-right" name="login" style="width: 100%;background-color: #0199ca">LogIn</button>
                   </div>
                 </div>
                 <br/>
@@ -197,7 +197,7 @@
 
                 <div class="row">
                   <div class="col-sm-12">
-                   <button class="inputss  hvr-bounce-to-right" style="width: 100%;background-color:#ff6600" type="submit" name="add_user">Register</button>
+                   <button class="inputss  hvr-bounce-to-right" style="width: 100%;background-color:#0199ca" type="submit" name="add_user">Register</button>
                   </div>
                 </div>
 

@@ -58,7 +58,7 @@
                       
                     <hr/>
                     <div class="form-group">
-                        <input type="submit" class="btn btn-danger" name="update_admin" value="Update Token Supply">
+                        <input type="submit" class="btn btn-primary" name="update_admin" value="Update Token Supply">
 
                         <?php// echo extract_total("users", "balance"); ?>
                     </div> 

@@ -104,8 +104,8 @@
                           <div><?php echo wallet_names(); ?> Wallet Holder</div>
                           
                           <hr style="width: 60%;opacity: .1" />
-                           <a href="" class="btn btn-primary btn-sm btn-warning" data-toggle="modal" data-target="#myModal" data-step="3" data-intro="You can Update Profile Here" data-position='right' style="background-color: #ff6701" >Update Profile</a>
-                          <a href="change_photo.php"><button class="btn btn-sm btn-danger"  data-step="1" data-intro="Here You can Change Your Profile Photo " >Update Photo</button></a>
+                           <a href="" class="btn btn-primary btn-sm btn-info" data-toggle="modal" data-target="#myModal" data-step="3" data-intro="You can Update Profile Here" data-position='right'  >Update Profile</a>
+                          <a href="change_photo.php"><button class="btn btn-sm btn-primary"  data-step="1" data-intro="Here You can Change Your Profile Photo " >Update Photo</button></a>
 
                          
                           <div style="padding:3px;"></div>
